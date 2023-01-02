@@ -22,8 +22,6 @@ const generateAction = async (req, res) => {
     temperature: 0.5,
     max_tokens: 500,
     top_p: 1,
-    frequency_penalty=0.0,
-    presence_penalty=0.0
   });
   
   const basePromptOutput = baseCompletion.data.choices.pop();
