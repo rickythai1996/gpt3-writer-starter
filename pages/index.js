@@ -34,12 +34,12 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>GPT-3 Writer | buildspace</title>
+        <title>Ricky A.I</title>
       </Head>
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Ricky.ai</h1>
+            <h1>Ricky A.I</h1>
           </div>
           <div className="header-subtitle">
             <h2>I'm an artifical intelligence chatbot cloned from Ricky's knowledge and experience. In fact, I am friendlier than Ricky and will answer your question without frustration &#128515;. I am knowledgeable about business, economics, finance, investing, education, and decision making. Even though I can give you useful information, you should also talk to other experts before making any decisions. Please keep in mind that I will not answer personal questions. Feel free to ask me any other questions you may have.</h2>
